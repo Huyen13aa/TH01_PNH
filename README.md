@@ -1,5 +1,14 @@
-## Họ và Tên: Nguyễn Tiến Thanh
-## MSV: 22810310382
+## Họ và Tên: Phạm Ngọc Huyên
+## MSV: 22810310376
 
 ## Kết quả:
-![ketqua](ketqua.gif)
+## Start
+![](start.jpg)
+## Home
+![](home.jpg)
+## Login
+![](login.jpg)
+## Number
+![](number.jpg)
+## Verify
+![](verify.jpg)
